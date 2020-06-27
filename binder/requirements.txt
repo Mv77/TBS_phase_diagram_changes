@@ -1,2 +1,2 @@
 matplotlib
-econ-ark==0.10.3.2
+econ-ark==0.10.3
